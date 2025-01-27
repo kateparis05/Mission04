@@ -13,3 +13,18 @@
 /Users/katherineparis/RiderProjects/Mission04/obj/Debug/net8.0/Mission04.pdb
 /Users/katherineparis/RiderProjects/Mission04/obj/Debug/net8.0/Mission04.genruntimeconfig.cache
 /Users/katherineparis/RiderProjects/Mission04/obj/Debug/net8.0/ref/Mission04.dll
+C:\Users\joefg\OneDrive\Desktop\Winter 2025\IS 413\Group Projects\bin\Debug\net8.0\Mission04.exe
+C:\Users\joefg\OneDrive\Desktop\Winter 2025\IS 413\Group Projects\bin\Debug\net8.0\Mission04.deps.json
+C:\Users\joefg\OneDrive\Desktop\Winter 2025\IS 413\Group Projects\bin\Debug\net8.0\Mission04.runtimeconfig.json
+C:\Users\joefg\OneDrive\Desktop\Winter 2025\IS 413\Group Projects\bin\Debug\net8.0\Mission04.dll
+C:\Users\joefg\OneDrive\Desktop\Winter 2025\IS 413\Group Projects\bin\Debug\net8.0\Mission04.pdb
+C:\Users\joefg\OneDrive\Desktop\Winter 2025\IS 413\Group Projects\obj\Debug\net8.0\Mission04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joefg\OneDrive\Desktop\Winter 2025\IS 413\Group Projects\obj\Debug\net8.0\Mission04.AssemblyInfoInputs.cache
+C:\Users\joefg\OneDrive\Desktop\Winter 2025\IS 413\Group Projects\obj\Debug\net8.0\Mission04.AssemblyInfo.cs
+C:\Users\joefg\OneDrive\Desktop\Winter 2025\IS 413\Group Projects\obj\Debug\net8.0\Mission04.csproj.CoreCompileInputs.cache
+C:\Users\joefg\OneDrive\Desktop\Winter 2025\IS 413\Group Projects\obj\Debug\net8.0\Mission04.sourcelink.json
+C:\Users\joefg\OneDrive\Desktop\Winter 2025\IS 413\Group Projects\obj\Debug\net8.0\Mission04.dll
+C:\Users\joefg\OneDrive\Desktop\Winter 2025\IS 413\Group Projects\obj\Debug\net8.0\refint\Mission04.dll
+C:\Users\joefg\OneDrive\Desktop\Winter 2025\IS 413\Group Projects\obj\Debug\net8.0\Mission04.pdb
+C:\Users\joefg\OneDrive\Desktop\Winter 2025\IS 413\Group Projects\obj\Debug\net8.0\Mission04.genruntimeconfig.cache
+C:\Users\joefg\OneDrive\Desktop\Winter 2025\IS 413\Group Projects\obj\Debug\net8.0\ref\Mission04.dll
