@@ -1,0 +1,15 @@
+/Users/katherineparis/RiderProjects/Mission04/bin/Debug/net8.0/Mission04
+/Users/katherineparis/RiderProjects/Mission04/bin/Debug/net8.0/Mission04.deps.json
+/Users/katherineparis/RiderProjects/Mission04/bin/Debug/net8.0/Mission04.runtimeconfig.json
+/Users/katherineparis/RiderProjects/Mission04/bin/Debug/net8.0/Mission04.dll
+/Users/katherineparis/RiderProjects/Mission04/bin/Debug/net8.0/Mission04.pdb
+/Users/katherineparis/RiderProjects/Mission04/obj/Debug/net8.0/Mission04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katherineparis/RiderProjects/Mission04/obj/Debug/net8.0/Mission04.AssemblyInfoInputs.cache
+/Users/katherineparis/RiderProjects/Mission04/obj/Debug/net8.0/Mission04.AssemblyInfo.cs
+/Users/katherineparis/RiderProjects/Mission04/obj/Debug/net8.0/Mission04.csproj.CoreCompileInputs.cache
+/Users/katherineparis/RiderProjects/Mission04/obj/Debug/net8.0/Mission04.sourcelink.json
+/Users/katherineparis/RiderProjects/Mission04/obj/Debug/net8.0/Mission04.dll
+/Users/katherineparis/RiderProjects/Mission04/obj/Debug/net8.0/refint/Mission04.dll
+/Users/katherineparis/RiderProjects/Mission04/obj/Debug/net8.0/Mission04.pdb
+/Users/katherineparis/RiderProjects/Mission04/obj/Debug/net8.0/Mission04.genruntimeconfig.cache
+/Users/katherineparis/RiderProjects/Mission04/obj/Debug/net8.0/ref/Mission04.dll
